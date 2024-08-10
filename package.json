@@ -195,7 +195,7 @@
     "broadcast-channel": "^3.0.3",
     "chalk": "^4.1.0",
     "check-disk-space": "^2.1.0",
-    "cheerio": "0.22.0",
+    "cheerio": "1.0.0",
     "chokidar": "^3.4.3",
     "chroma-js": "^1.4.1",
     "classnames": "2.2.6",
