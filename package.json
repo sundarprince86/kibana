@@ -354,7 +354,7 @@
     "react-router-redux": "^4.0.8",
     "react-shortcuts": "^2.0.0",
     "react-sizeme": "^2.3.6",
-    "react-syntax-highlighter": "^15.3.1",
+    "react-syntax-highlighter": "^16.0.0",
     "react-redux": "^7.2.0",
     "react-resizable": "^1.7.5",
     "react-router": "^5.2.0",
